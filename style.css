@@ -1,0 +1,73 @@
+
+.carousel-inner {
+    height: 250px;
+}
+
+.jumbotron{
+    color: rgb(6, 0, 0);
+    height: 250px;
+}
+
+.overlayLoginButton {
+    position:absolute;
+    z-index:12;
+    top:8%;
+    left:90px;
+    font-size: 20px;
+}
+
+.overlayTitle { 
+    position:absolute;
+    z-index:12;
+    top:5%;
+    left:0;
+    width:100%;
+    text-align:center;
+    color:#fff;
+  }
+
+ h1 {
+      font-size: 75px;
+  }
+
+.overlayText { 
+    position:absolute;
+    z-index:12;
+    top:35%;
+    left:0;
+    width:100%;
+    text-align:center;
+    color:#fff;
+  }
+
+p {
+    font-size: 25px;
+}
+
+#carouselImage1 {
+    background: url("concert.jpg");
+    background-size: cover;
+    background-position-y: center;
+    position: relative;
+    bottom: 0px;
+}
+
+#carouselImage2 {
+    background: url("iPhoneconcertpic.jpg");
+    background-size: cover;
+    background-position-y: center;
+    position: relative;
+    bottom: 0px;
+}
+
+#carouselImage3 {
+    background: url("laserlightsconcert.jpg");
+    background-size: cover;
+    background-position-y: center;
+    position: relative;
+    bottom: 0px;
+}
+
+
+
+
